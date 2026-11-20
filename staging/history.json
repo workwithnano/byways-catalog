@@ -1,0 +1,12 @@
+{
+  "deploys": [
+    {
+      "catalogVersion": "2026.11.20.1",
+      "deployedAt": "2026-11-20T20:57:40Z",
+      "publishedAt": "2026-11-20T20:57:05Z",
+      "sha256": "0a3309825193d1dceedf8c5e7a66a8c2465996075d6ee694cfa2ee02a8ea1e52",
+      "byteCount": 1491299,
+      "sourceCommit": "27d833351e693ec486c889ce9f17eb753fe20c82"
+    }
+  ]
+}
