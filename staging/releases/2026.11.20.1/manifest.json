@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.11.20.1",
+  "publishedAt": "2026-11-20T20:57:05Z",
+  "minimumAppBuild": 1,
+  "format": "single",
+  "files": [
+    {
+      "id": "catalog",
+      "kind": "catalog",
+      "path": "releases/2026.11.20.1/catalog.json",
+      "byteCount": 1491299,
+      "sha256": "0a3309825193d1dceedf8c5e7a66a8c2465996075d6ee694cfa2ee02a8ea1e52"
+    }
+  ]
+}
