@@ -7,6 +7,14 @@
       "sha256": "af240b2a0234d6ddea1bf856c84e02abfb3fa1b47d4c3650dbc3be557f33762b",
       "byteCount": 1491299,
       "sourceCommit": "e32369dce7a46924003459e86001e6138d73e256"
+    },
+    {
+      "catalogVersion": "2026.11.22.1",
+      "deployedAt": "2026-11-22T09:10:36Z",
+      "publishedAt": "2026-11-22T03:51:38Z",
+      "sha256": "f1043dcf06bd9a997638eae70711ce239807a34a9ac9df8d728f853df280afc8",
+      "byteCount": 1491354,
+      "sourceCommit": "db727bb72cc54c60b9bcdf48ae96e79dd11c1794"
     }
   ]
 }
